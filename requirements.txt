@@ -1,0 +1,5 @@
+librosa
+numpy
+scipy
+mysql-connector-python
+# sqlite3 is part of the Python standard library
